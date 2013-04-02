@@ -1,5 +1,5 @@
 <?php
 
-class RssFeed {
-
+class RssFeed extends BaseRssFeed {
+	
 }
